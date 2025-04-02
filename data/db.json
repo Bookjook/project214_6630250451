@@ -1,0 +1,22 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "firstName": "วุฒิภัทร",
+        "lastName": "ใจก้อน",
+        "studentId": "6630250451",
+        "major": "วิทยาการคอมพิวเตอร์",
+        "school": "โรงเรียน มารีวิทย์พัทยา"
+      }
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "courseCode": "01418234",
+        "courseName": "Programming Internet of Things",
+        "credits": 3,
+        "grade": "B+"
+      }
+    ]
+  }
+  
